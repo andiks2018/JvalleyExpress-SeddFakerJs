@@ -18,3 +18,4 @@
 
 https://www.youtube.com/watch?v=xim6Zq0Qh3U&t=6526s
 
+https://dev.to/andiismail/express-js-faker-js-node-js-1hc7
