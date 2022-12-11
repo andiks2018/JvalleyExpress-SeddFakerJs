@@ -1,0 +1,14 @@
+### create data siswa
+
+POST http://localhost:9000/api/user/create
+Content-Type: application/json 
+
+{
+    "username" : "andiismail123",
+    "email" : "andi123@andi.com",
+    "password" : "Jl H. Midi Limo Depok123"
+}
+
+### read all user
+GET http://localhost:9000/api/users/read 
+Content-Type: application/json 
